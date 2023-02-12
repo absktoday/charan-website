@@ -60,7 +60,7 @@ export default function Home() {
         </div>
 
         <div className={styles.center}>
-          <h1>Charan</h1>
+          <h1 className={inter.className}>Charan</h1>
         </div>
 
         <div className={styles.grid}>
